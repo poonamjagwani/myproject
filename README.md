@@ -1,2 +1,2 @@
 # myproject
-A new project for new coding practices.
+A new project for new coding practices!
