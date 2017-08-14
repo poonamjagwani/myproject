@@ -1,2 +1,3 @@
 # myproject
-A new project
+A new project in the master branch.
+This may change in future.
